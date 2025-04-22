@@ -1,5 +1,5 @@
-criacionais (singleton, factory)
+criacionais (singleton, factory, builder)
 
-estruturais
+estruturais (adapter, decorator)
 
-relacionais
+relacionais (observer)
