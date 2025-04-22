@@ -63,5 +63,6 @@ class BurguerBuilder{
     }
 }
 const hamburger2 = new BurguerBuilder()
-console.log(hamburger2.burguer)
 hamburger2.pao = 'trigo'
+hamburger2.carne = 'bovina'
+console.log(hamburger2)
